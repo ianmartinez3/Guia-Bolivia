@@ -1,0 +1,70 @@
+body {
+  background-color:LightSkyBlue;
+  font-family:"Helvetica",sans-serif;
+}
+h1  {
+  color:green;
+  font-family:Impact,serif;
+  
+}
+
+nav ul{
+  background-color:lime;
+  border-style:solid;
+  border-color :LimeGreen;
+  border-width:2px;
+  padding:10px;
+  border-radius:10px;
+}
+nav ul li {
+  list-style-type:none;
+  display:inline;
+  margin-right:2px;
+  color:PapayaWhip;
+  
+}
+nav ul li a{
+  text-decoration:none;
+}
+
+img {  
+  border-radius:8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid LimeGreen;
+  border-collapse: collapse;
+}
+tr {
+  background-color: MediumSpringGreen;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: Peru;
+}
+td {
+  color: Black;
+}
+
+/********************************/
